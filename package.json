@@ -19,7 +19,7 @@
     "commander": "^13.1.0",
     "dotenv": "^16.4.7",
     "express": "^5.1.0",
-    "googleapis": "^149.0.0",
+    "googleapis": "^162.0.0",
     "open": "^10.1.2"
   },
   "engines": {
